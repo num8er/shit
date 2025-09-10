@@ -1,4 +1,4 @@
-# Shit - Secure Remote Shell System
+# Shit - Secure Reverse Remote Shell System
 
 ![Screenshot](screen.jpg)
 
